@@ -1,2 +1,3 @@
-# TODO_LIST_APP
-A Simple application Used to Track Daily Activities for being more Productive. 
+# Things-to-done
+A simple web app that alllows user to manage their tasks.
+You can check it out [here](https://fathomless-everglades-89134.herokuapp.com/).
